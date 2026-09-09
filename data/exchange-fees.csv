@@ -1,0 +1,9 @@
+id,name,founded,headquarters,spot_maker_taker,futures_maker_taker,kyc,max_leverage,fiat_currencies,languages,mobile_rating,security_score,liquidity_score,ease_of_use_score,features_score,support_score,trust_score,overall_rating
+binance,Binance,2017,Cayman Islands / Dubai,0.1% / 0.1%,0.02% / 0.05%,Required,125x,USD EUR TRY GBP AUD,40,4.7,9,10,7,10,6,8,9.2
+coinbase,Coinbase,2012,USA (San Francisco),0.4% / 0.6%,0.05% / 0.1%,Required,10x,USD EUR GBP CAD,10,4.8,10,8,10,6,8,9,8.4
+bybit,Bybit,2018,"Dubai, UAE",0.1% / 0.1%,0.02% / 0.055%,Required,100x,USD EUR TRY GBP,20,4.6,8,8,8,8,8,8,8.1
+okx,OKX,2017,Seychelles,0.08% / 0.1%,0.02% / 0.05%,Required,125x,USD EUR TRY,15,4.5,8,9,7,9,7,7,8
+kraken,Kraken,2011,USA (San Francisco),0.16% / 0.26%,0.02% / 0.05%,Required,50x,USD EUR GBP JPY CAD,8,4.3,10,7,7,7,9,9,7.8
+bitget,Bitget,2018,Seychelles,0.1% / 0.1%,0.02% / 0.06%,Optional,125x,USD EUR TRY,12,4.4,7,7,8,8,7,7,7.5
+mexc,MEXC,2018,Seychelles,0.1% / 0.1%,0.02% / 0.06%,None,200x,USD EUR,10,4.2,6,6,7,7,6,6,6.5
+gateio,Gate.io,2013,Cayman Islands,0.15% / 0.15%,0.015% / 0.05%,Optional,100x,USD EUR TRY,12,4.3,7,7,6,8,6,7,7.2
